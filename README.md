@@ -35,7 +35,7 @@ provides the home screen, per-game settings and installers.
 [Compatibility](#game-compatibility) · [Screenshots](#screenshots) ·
 [Requirements](#system-requirements) · [Installation](#installation) ·
 [Performance](#performance-and-known-limitations) · [Building from source](#building-from-source) ·
-[Credits](#credits) · [Licensing](#licensing) · [Contributing](#contributing) ·
+[Support](#support-kb-rpcs3) · [Credits](#credits) · [Licensing](#licensing) · [Contributing](#contributing) ·
 [Disclaimer](#disclaimer)
 
 ## Downloads
@@ -195,6 +195,13 @@ The build scripts currently expect the PS5 toolchain and dependencies at fixed p
 inside a build VM; [BUILDING.md](BUILDING.md) documents the exact layout, the
 dependencies and their licences, and the off-by-default experimental options. Read
 [Licensing status](LICENSING_STATUS.md) before distributing anything you build.
+
+## Support KB-RPCS3
+
+KB-RPCS3 is a free, open-source project developed in my spare time. If you'd like
+to support its ongoing development, you can [buy me a coffee](https://buymeacoffee.com/kamb205).
+
+Support is entirely optional. KB-RPCS3 remains free and open source.
 
 ## Credits
 
